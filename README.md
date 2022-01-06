@@ -32,3 +32,4 @@
 - To reverse a number
 - To find simple interest
 - To find sum of digits of a number
+- 

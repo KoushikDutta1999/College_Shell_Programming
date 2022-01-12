@@ -1,6 +1,6 @@
 # College_Shell_Programming
 
-- Write a shell script where distance between two cities is input through the keyboard in km. Convert and print this distance in meters, feet, inches and cm.
+- Semester Exam - Write a shell script where distance between two cities is input through the keyboard in km. Convert and print this distance in meters, feet, inches and cm.
 - To print your Address ‘n’ times
 - To find area of circle, Rectangle and Square
 - To perform all Arithmetic operations on floating point
